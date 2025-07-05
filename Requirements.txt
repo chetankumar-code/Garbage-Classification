@@ -1,0 +1,13 @@
+The dataset from the kaggle for the garbage classification is being taken for this:  https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
+
+
+
+Required libraries for the Garbage classification system
+
+1. tensorflow/ keras 
+2. numpy
+3. opencv-python(cv2)
+4. matplotlib.pyplot
+
+
+
