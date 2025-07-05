@@ -5,5 +5,7 @@ This project aims to build a garbage classification system that can accurately i
 #How to run the project
 
 Step-1: Open Google Colab
+
 Step-2: import the downloaded 'AICTE-Garbage-Collection' file, or just copy my GitHub repository link and import files from my repository 
+
 Step-3 Make it run 
